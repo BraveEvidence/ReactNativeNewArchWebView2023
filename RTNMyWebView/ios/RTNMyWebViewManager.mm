@@ -7,7 +7,7 @@
 
 @implementation RTNMyWebViewManager
 
-RCT_EXPORT_MODULE(RTNCenteredText)
+RCT_EXPORT_MODULE(RTNMyWebView)
 RCT_EXPORT_VIEW_PROPERTY(url, NSString)
 
 @end

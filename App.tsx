@@ -61,3 +61,5 @@ export default App;
 //node rnappweb/node_modules/react-native/scripts/generate-codegen-artifacts.js \
 // --path rnappweb/ \
 // --outputPath rnappweb/RTNMyWebView/generated/
+
+//https://github.com/BraveEvidence/ReactNativeNewArchWebView2023
